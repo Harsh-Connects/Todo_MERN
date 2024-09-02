@@ -1,0 +1,16 @@
+.home{
+    width:88%;
+    height:100vh;
+    margin: auto;
+}
+.home h1{
+    font-size: 60px;
+}
+.home-btn{
+    border: none;
+    outline: none;
+    background-color: #f32828;
+    color: white !important;
+    border-radius: 0.5rem;
+    font-weight: bold;
+}

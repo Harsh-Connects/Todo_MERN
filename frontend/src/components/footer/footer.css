@@ -1,0 +1,18 @@
+.footer {
+  position: relative; /* Change from absolute to relative */
+  width: 100%;
+  background-color: #c5c0c073;
+  color: #131212;
+  padding: 1rem;
+  text-align: center;
+  margin-top: auto; /* Add this to push it to the bottom in flex containers */
+}
+  
+  .footer a {
+    margin: 0 1rem;
+  }
+  
+  .footer img {
+    width: 20px;
+    height: 20px;
+  }
